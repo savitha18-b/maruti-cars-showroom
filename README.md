@@ -50,4 +50,4 @@ CONGRATS! You got our latest model: Swift
 
 ## 👤 Author
 
-Built as a personal Python practice project — 2nd year CSE student.
+Built as a personal Python practice project — 1st year CSE student.
